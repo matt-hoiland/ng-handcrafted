@@ -15,7 +15,7 @@
           "options": {
             "outputPath": "dist/handcrafted",
             "index": "src/index.html",
-            "main": "src/maint.ts",
+            "main": "src/main.ts",
             "polyfills": "",
             "tsConfig": "",
             "assets": [],
