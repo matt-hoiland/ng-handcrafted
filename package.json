@@ -16,6 +16,7 @@
     "typescript": "^3.4.4"
   },
   "dependencies": {
-    "@angular/core": "^7.2.13"
+    "@angular/core": "^7.2.13",
+    "@angular/platform-browser-dynamic": "^7.2.13"
   }
 }
