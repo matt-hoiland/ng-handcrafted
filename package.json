@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "description": "A hand initialized angular project",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.13.8",
