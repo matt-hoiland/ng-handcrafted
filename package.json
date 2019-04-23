@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@angular/core": "^7.2.13",
+    "@angular/platform-browser": "^7.2.13",
     "@angular/platform-browser-dynamic": "^7.2.13"
   }
 }
