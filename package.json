@@ -14,5 +14,8 @@
     "@angular/language-service": "^7.2.13",
     "@types/node": "^11.13.7",
     "typescript": "^3.4.4"
+  },
+  "dependencies": {
+    "@angular/core": "^7.2.13"
   }
 }
